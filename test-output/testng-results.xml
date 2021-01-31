@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="37" started-at="2021-01-31T14:55:05 IST" finished-at="2021-01-31T14:55:05 IST">
+  <suite name="Default suite" duration-ms="37" started-at="2021-01-31T15:03:30 IST" finished-at="2021-01-31T15:03:30 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="37" started-at="2021-01-31T14:55:05 IST" finished-at="2021-01-31T14:55:05 IST">
+    <test name="Default test" duration-ms="37" started-at="2021-01-31T15:03:30 IST" finished-at="2021-01-31T15:03:30 IST">
       <class name="git_Pack01.SimpleTest">
-        <test-method status="PASS" signature="anotherSimpleTest()[pri:0, instance:git_Pack01.SimpleTest@9660f4e]" name="anotherSimpleTest" duration-ms="6" started-at="2021-01-31T14:55:05 IST" finished-at="2021-01-31T14:55:05 IST">
+        <test-method status="PASS" signature="anotherSimpleTest()[pri:0, instance:git_Pack01.SimpleTest@9660f4e]" name="anotherSimpleTest" duration-ms="6" started-at="2021-01-31T15:03:30 IST" finished-at="2021-01-31T15:03:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- anotherSimpleTest -->
-        <test-method status="PASS" signature="newBranchTest()[pri:0, instance:git_Pack01.SimpleTest@9660f4e]" name="newBranchTest" duration-ms="1" started-at="2021-01-31T14:55:05 IST" finished-at="2021-01-31T14:55:05 IST">
+        <test-method status="PASS" signature="newBranchTest()[pri:0, instance:git_Pack01.SimpleTest@9660f4e]" name="newBranchTest" duration-ms="1" started-at="2021-01-31T15:03:30 IST" finished-at="2021-01-31T15:03:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newBranchTest -->
-        <test-method status="PASS" signature="printSimpleTest()[pri:0, instance:git_Pack01.SimpleTest@9660f4e]" name="printSimpleTest" duration-ms="1" started-at="2021-01-31T14:55:05 IST" finished-at="2021-01-31T14:55:05 IST">
+        <test-method status="PASS" signature="printSimpleTest()[pri:0, instance:git_Pack01.SimpleTest@9660f4e]" name="printSimpleTest" duration-ms="1" started-at="2021-01-31T15:03:30 IST" finished-at="2021-01-31T15:03:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printSimpleTest -->
