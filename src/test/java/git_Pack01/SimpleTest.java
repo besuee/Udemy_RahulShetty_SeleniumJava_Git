@@ -23,6 +23,7 @@ public class SimpleTest {
 	public void newBranchTest() {
 		
 		System.out.println("Created under new branch - 'develop'");
+		System.out.println("Another line 4 added under Eclipse WS under Develop Branch");
 	}
 
 }
