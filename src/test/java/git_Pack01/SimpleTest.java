@@ -18,5 +18,11 @@ public class SimpleTest {
 		
 		System.out.println("Pulled from Github to Local -> added line 3 in new method");
 	}
+	
+	@Test
+	public void newBranchTest() {
+		
+		System.out.println("Created under new branch - 'develop'");
+	}
 
 }
